@@ -1,8 +1,6 @@
 # Graphical-Digit-Recognizer
 Uses a convolutional neural network as well as WebGL to create a graphical digit recognizer where users can draw digits using the mouse.
 
-# Implementation Details
-
 This demo does handwritten digit recognition by evaluating a
 Convolutional Neural Network on the GPU with WebGL. The network was
 trained in TensorFlow, and the network was then
