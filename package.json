@@ -37,10 +37,10 @@
     "WebGL",
     "GPGPU"
   ],
-  "author": "Eric Arnebäck",
-  "license": "MIT",
+  "author": "Krishnanshu gupta",
+  "license": "Apache License 2.0",
   "bugs": {
-    "url": "https://github.com/Erkaman/regl-cnn/issues"
+    "url": "https://github.com/Krishnanshu-Gupta/Graphical-Digit-Recognizer"
   },
-  "homepage": "https://github.com/Erkaman/regl-cnn"
+  "homepage": "https://github.com/Krishnanshu-Gupta/Graphical-Digit-Recognizer"
 }
