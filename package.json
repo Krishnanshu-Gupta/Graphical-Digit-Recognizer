@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Erkaman/regl-cnn.git"
+    "url": "git+https://github.com/Krishnanshu-Gupta/graphical-digit-recognizer.git"
   },
   "keywords": [
     "regl",
